@@ -1,0 +1,1 @@
+This branch contains various projects related to Board bring up where I am trying to explore the various peripherals provided on the development board like push buttons, switches, Buzzer, Wi-Fi, LCD screen, 7 segment displays, etc.
