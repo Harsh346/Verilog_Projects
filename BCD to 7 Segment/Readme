@@ -1,0 +1,6 @@
+This folder contains all the files related to BCD to 7 segment display project.
+1) The verilog module here is written to convert 4 bit BCD numbers (0-9) into 7 segment displays. 
+2) The development board used is Spartan-7 FPGA development kit provided by Invent logics. 
+3) The input number to be given is governed by switches SW3, SW2, SW1 and SW0 with the SW3 being the MSB and SW0 being the LSB.
+4) For all values greater than 9, nothing will be displayed on the 7 segment display. 
+5) There are 4 digits present on the board and the code includes handling the selection of these digits using the switches SW15, SW14, SW13 and SW12 in order from leftmost to rightmost respectively.
